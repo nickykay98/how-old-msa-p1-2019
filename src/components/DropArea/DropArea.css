@@ -15,7 +15,7 @@
     height: 51vh;
     background-color: #202125;
     border-radius: 20px;
-    color: white;
+    color: grey;
   }
   
   .image1 {
@@ -26,7 +26,7 @@
   .result {
     display:flex;
     justify-content:center;
-    color: white;
+    color: black;
     font-size: 20px;
   }
   
